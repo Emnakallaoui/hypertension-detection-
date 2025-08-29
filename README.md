@@ -1,3 +1,1 @@
-# hypertension-detection-
-A machine learning project to detect hypertension risk based on clinical data which is sourced  from kaggle .
-this project focuses on data preparation ,visiualization , and applying predective models .
+https://colab.research.google.com/drive/1hRjzFVOUEbzZ0x4T-Mg71N5VUJ90dwY5?usp=sharing)
