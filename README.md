@@ -1,4 +1,5 @@
 Notebook: 
 https://colab.research.google.com/drive/1hRjzFVOUEbzZ0x4T-Mg71N5VUJ90dwY5?usp=sharing
+
 data:
-"C:\Users\emna\Downloads\archive\hypertension_dataset.csv"
+https://storage.googleapis.com/kaggle-data-sets/7903130/12520349/croissant/metadata.json?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1756759352&Signature=jSaJ6mynEtgFIq5J4hjdVoaQS%2F9TYqnH1BQ5bSvpRP2aQwl2MnIZ6F3RrK1TuT6aVmBJqDXcRl4r3pRCqsIp7CpizscA1d%2F4YYqrgyyDlDqAV%2FxsyFzgeu1Wfqh0kRmw5ufgoDmGwQQnQYCeRZ8ay852NI1MU6ip%2FR4HRPpAiSUGdfxSCI8K6ZdRyyeRiCvL6QoL3iZz7yz1gLsMB%2FEl%2FeoNICie9pYuIA5PQ3tdIhzDsU5ASo2tDhLz7hlUaHwuw%2BxS7WI%2F2Wq1EPQb6o6g1es87LZVha7Usx%2BtX6HcJg3KPEBZLf1yFYi7rhY%2FAOqJMc9igTP7xfryT2eAx9VXnw%3D%3D&response-content-disposition=attachment%3B+filename%3Dhypertension-risk-prediction-dataset-metadata.json
